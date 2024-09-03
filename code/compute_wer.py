@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Colab Notebook: https://colab.research.google.com/drive/1G7Tmj0RIskMRl4QBXzhmpTMuhSprrRHN?usp=sharing
-"""
-
 import numpy as np
 import Levenshtein
 import matplotlib.pyplot as plt
