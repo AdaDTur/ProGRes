@@ -7,6 +7,6 @@ Large Language Models (LLMs) have shown their ability to improve the performance
 
 ![Proposed rescoring pipeline](figures/pipeline.png)
 
-![ESPnet Test WER](figures/esp_test_wer.pdf)
+xfun::embed_file("figures/esp_test_wer.pdf")
 
-![SB Test WER](figures/sb_test_wer.pdf)
+xfun::embed_file("figures/sb_test_wer.pdf")
