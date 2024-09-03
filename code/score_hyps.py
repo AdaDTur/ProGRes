@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Colab Notebook available at: https://colab.research.google.com/drive/1L9Cnp8XlUEtaSSNktOWxfwmkwo0do7gE?usp=sharing
-"""
 import pandas as pd
 import os
 import numpy as np
