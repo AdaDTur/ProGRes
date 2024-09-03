@@ -1,5 +1,7 @@
 # ProGRes: Prompted Generative Rescoring for ASR n-Best
 
+<h4>Big News !! ProGRes has been accepted to the IEEE Spoken Language Technology Workshop (SLT) !!!</h4>
+
 This repository hosts the data and code files for our paper ProGRes: Prompted Generative Rescoring for ASR n-Best
 
 <h3>Overview</h3>
