@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Colab Notebook available at: https://colab.research.google.com/drive/12aGw0X1oEQOiZ-L3bo3KX5asGdSdSOKY?usp=sharing
-"""
 import string
 import Levenshtein
 import numpy as np
@@ -16,9 +12,7 @@ def remove_punctuation(text):
     text = text.replace(" re ", "re ")
     text = text.replace(" ve ", "ve ")
     text = text.replace("-", " ")
-    # Create a translation table mapping all punctuation characters to None
     translator = str.maketrans('', '', string.punctuation)
-    # Use translate() to remove all punctuation characters from the text
     text_without_punctuation = text.translate(translator)
     return text_without_punctuation
 
