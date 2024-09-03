@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Colab Notebook available at: https://colab.research.google.com/drive/1Zt_06XnmDXrGcnO28ChvddtXuBBLt7dl?usp=sharing
-"""
 import Levenshtein
 import string
 import pandas as pd
