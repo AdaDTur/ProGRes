@@ -7,6 +7,4 @@ Large Language Models (LLMs) have shown their ability to improve the performance
 
 ![Proposed rescoring pipeline](figures/pipeline.png)
 
-xfun::embed_file("figures/esp_test_wer.pdf")
-
-xfun::embed_file("figures/sb_test_wer.pdf")
+for d in figures/*.pdf ; do inkscape --without-gui --file=$d --export-plain-svg=${d%.*}.svg ; done
